@@ -1,3 +1,4 @@
+/**-------------------------------------------- */
 const nombre = document.getElementById("myname");
 const apellidos = document.getElementById("surname");
 const correo = document.getElementById("email");
@@ -72,3 +73,5 @@ function enviarFormulario() {
   form.reset();
   form.lastElementChild.innerHTML = "Listo !!";
 }
+
+
