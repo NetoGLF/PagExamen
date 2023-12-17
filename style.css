@@ -42,10 +42,10 @@ img {
 .logo{
     flex-basis: 9%;
     text-align: center;
-    font-size: 25px;
+    font-size: 100px;
     color: #c266ab;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .menu .navbar ul li{
@@ -193,14 +193,14 @@ span {
 }
 
 .b1 {
-    background-color: #c97bb5;
+    background-color: #411836;
 }
 
 .b2 {
-    background-color: #8cd4eb;
+    background-color: #14313a;
 }
 .b3 {
-    background-color: #e9b375;
+    background-color: #4a3925;
 }
  
 
